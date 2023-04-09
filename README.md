@@ -14,7 +14,7 @@ The buttons are processed by the select_content_image, select_style_image, and t
 
 Basically, this code implements a GUI to perform image styling operation using TensorFlow and TensorFlow Hub.
 
-You can also watch the video instruction, which has the title "How to use it"
+You can also watch the video instruction, which has the title "How to use it".
 ---------------------------------------------------------------------------------------------------------------------
 Данный код (transfer.py) содержит реализацию оконного приложения для стилизации изображений.
 Окно содержит кнопки для выбора изображения и стиля, а также кнопку для запуска процесса стилизации.
@@ -31,4 +31,4 @@ You can also watch the video instruction, which has the title "How to use it"
 
 В целом, данный код реализует графический интерфейс для выполнения операции стилизации изображений с помощью TensorFlow и TensorFlow Hub.
 
-Также вы можете посмотреть видео-инструкцию, которая имеет название "How to use it"
+Также вы можете посмотреть видео-инструкцию, которая имеет название "How to use it".
