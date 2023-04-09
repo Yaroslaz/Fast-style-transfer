@@ -13,6 +13,8 @@ Next, the StyleTransferWindow class is defined to create a window and its elemen
 The buttons are processed by the select_content_image, select_style_image, and transfer_style functions, which call up the appropriate file selection dialogs and run the corresponding functions.
 
 Basically, this code implements a GUI to perform image styling operation using TensorFlow and TensorFlow Hub.
+
+You can also watch the video instruction, which has the title "How to use it"
 ---------------------------------------------------------------------------------------------------------------------
 Данный код (transfer.py) содержит реализацию оконного приложения для стилизации изображений.
 Окно содержит кнопки для выбора изображения и стиля, а также кнопку для запуска процесса стилизации.
@@ -28,3 +30,5 @@ Basically, this code implements a GUI to perform image styling operation using T
 Кнопки обрабатываются функциями select_content_image, select_style_image и transfer_style, которые вызывают соответствующие диалоговые окна для выбора файлов и запускают соответствующие функции.
 
 В целом, данный код реализует графический интерфейс для выполнения операции стилизации изображений с помощью TensorFlow и TensorFlow Hub.
+
+Также вы можете посмотреть видео-инструкцию, которая имеет название "How to use it"
