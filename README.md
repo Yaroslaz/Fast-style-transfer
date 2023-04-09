@@ -1,5 +1,5 @@
 # Fast-style-transfer
-This code contains the implementation of a window application for styling images.
+This code (transfer.py) contains the implementation of a window application for styling images.
 The window contains buttons for selecting an image and a style, as well as a button for starting the styling process.
 
 The code also defines functions for loading, processing and displaying images, as well as for styling.
@@ -14,7 +14,7 @@ The buttons are processed by the select_content_image, select_style_image, and t
 
 Basically, this code implements a GUI to perform image styling operation using TensorFlow and TensorFlow Hub.
 ---------------------------------------------------------------------------------------------------------------------
-Данный код содержит реализацию оконного приложения для стилизации изображений.
+Данный код (transfer.py) содержит реализацию оконного приложения для стилизации изображений.
 Окно содержит кнопки для выбора изображения и стиля, а также кнопку для запуска процесса стилизации.
 
 Также в коде определены функции для загрузки, обработки и отображения изображений, а также для стилизации.
